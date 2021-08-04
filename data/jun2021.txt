@@ -1,0 +1,680 @@
+AVTE
+Aerovate Therapeutics, Inc.
+NASDAQ Global
+14.00
+8,682,142
+06/30/2021
+$121,549,988
+Priced
+INTA
+Intapp, Inc.
+NASDAQ Global Select
+26.00
+10,500,000
+06/30/2021
+$273,000,000
+Priced
+DIDI
+DiDi Global Inc.
+NYSE
+14.00
+316,800,000
+06/30/2021
+$4,435,200,000
+Priced
+IAS
+INTEGRAL AD SCIENCE HOLDING CORP.
+NASDAQ Global Select
+18.00
+15,000,000
+06/30/2021
+$270,000,000
+Priced
+S
+SentinelOne, Inc.
+NYSE
+35.00
+35,000,000
+06/30/2021
+$1,225,000,000
+Priced
+YOU
+Clear Secure, Inc.
+NYSE
+31.00
+13,200,000
+06/30/2021
+$409,200,000
+Priced
+XMTR
+Xometry, Inc.
+NASDAQ Global Select
+44.00
+6,875,000
+06/30/2021
+$302,500,000
+Priced
+SHQAU
+Shelter Acquisition Corp I
+NASDAQ Capital
+10.00
+20,000,000
+06/30/2021
+$200,000,000
+Priced
+MCAFU
+Mountain Crest Acquisition Corp. IV
+NASDAQ Capital
+10.00
+5,000,000
+06/30/2021
+$50,000,000
+Priced
+LZ
+LEGALZOOM.COM, INC.
+NASDAQ Global Select
+28.00
+19,121,000
+06/30/2021
+$535,388,000
+Priced
+THCPU
+Thunder Bridge Capital Partners IV, Inc.
+NASDAQ Global
+10.00
+22,500,000
+06/30/2021
+$225,000,000
+Priced
+DNAD
+Social Capital Suvretta Holdings Corp. IV
+NASDAQ Capital
+10.00
+22,000,000
+06/30/2021
+$220,000,000
+Priced
+DNAC
+Social Capital Suvretta Holdings Corp. III
+NASDAQ Capital
+10.00
+22,000,000
+06/30/2021
+$220,000,000
+Priced
+DNAB
+Social Capital Suvretta Holdings Corp. II
+NASDAQ Capital
+10.00
+22,000,000
+06/30/2021
+$220,000,000
+Priced
+DNAA
+Social Capital Suvretta Holdings Corp. I
+NASDAQ Capital
+10.00
+22,000,000
+06/30/2021
+$220,000,000
+Priced
+CVRX
+CVRx, Inc.
+NASDAQ Global Select
+18.00
+7,000,000
+06/30/2021
+$126,000,000
+Priced
+CPOP
+Pop Culture Group Co., Ltd
+NASDAQ Global
+6.00
+6,200,000
+06/30/2021
+$37,200,000
+Priced
+BTTR
+Better Choice Co Inc.
+NYSE MKT
+5.00
+8,000,000
+06/29/2021
+$40,000,000
+Priced
+GOBI
+Gobi Acquisition Corp.
+NASDAQ Capital
+10.00
+25,000,000
+06/29/2021
+$250,000,000
+Priced
+DDL
+Dingdong (Cayman) Ltd
+NYSE
+23.50
+4,072,000
+06/29/2021
+$95,692,000
+Priced
+EOCWU
+Elliott Opportunity II Corp.
+NYSE
+10.00
+53,000,000
+06/29/2021
+$530,000,000
+Priced
+GMVD
+G Medical Innovations Holdings Ltd.
+NASDAQ Capital
+5.00
+3,000,000
+06/25/2021
+$15,000,000
+Priced
+GHRS
+GH Research PLC
+NASDAQ Global
+16.00
+10,000,000
+06/25/2021
+$160,000,000
+Priced
+GRPH
+Graphite Bio, Inc.
+NASDAQ Global
+17.00
+14,000,000
+06/25/2021
+$238,000,000
+Priced
+ACXP
+Acurx Pharmaceuticals, Inc.
+NASDAQ Capital
+6.00
+2,500,000
+06/25/2021
+$15,000,000
+Priced
+MCW
+Mister Car Wash, Inc.
+NYSE
+15.00
+37,500,000
+06/25/2021
+$562,500,000
+Priced
+TKNO
+Alpha Teknova, Inc.
+NASDAQ Global
+16.00
+6,000,000
+06/25/2021
+$96,000,000
+Priced
+MF
+Missfresh Ltd
+NASDAQ Global
+13.00
+21,000,000
+06/25/2021
+$273,000,000
+Priced
+ELEV
+Elevation Oncology, Inc.
+NASDAQ Global Select
+16.00
+6,250,000
+06/25/2021
+$100,000,000
+Priced
+BON
+Bon Natural Life Ltd
+NASDAQ Capital
+5.00
+2,200,000
+06/24/2021
+$11,000,000
+Priced
+NLITU
+Northern Lights Acquisition Corp.
+NASDAQ Capital
+10.00
+10,000,000
+06/24/2021
+$100,000,000
+Priced
+MIRO
+Miromatrix Medical Inc.
+NASDAQ Capital
+9.00
+4,800,000
+06/24/2021
+$43,200,000
+Priced
+CFLT
+Confluent, Inc.
+NASDAQ Global Select
+36.00
+23,000,000
+06/24/2021
+$828,000,000
+Priced
+FTVIU
+FINTECH ACQUISITION CORP VI
+NASDAQ Capital
+10.00
+22,000,000
+06/24/2021
+$220,000,000
+Priced
+DOCS
+Doximity, Inc.
+NYSE
+26.00
+23,300,000
+06/24/2021
+$605,800,000
+Priced
+GRVI
+GROVE, INC.
+NASDAQ Capital
+5.00
+2,200,000
+06/24/2021
+$11,000,000
+Priced
+GLUE
+Monte Rosa Therapeutics, Inc.
+NASDAQ Global Select
+19.00
+11,700,000
+06/24/2021
+$222,300,000
+Priced
+BHG
+Bright Health Group Inc.
+NYSE
+18.00
+51,350,000
+06/24/2021
+$924,300,000
+Priced
+CXM
+Sprinklr, Inc.
+NYSE
+16.00
+16,625,000
+06/23/2021
+$266,000,000
+Priced
+FA
+FIRST ADVANTAGE CORP
+NASDAQ Global Select
+15.00
+25,500,000
+06/23/2021
+$382,500,000
+Priced
+MITAU
+Coliseum Acquisition Corp.
+NASDAQ Capital
+10.00
+15,000,000
+06/23/2021
+$150,000,000
+Priced
+GPCOU
+Golden Path Acquisition Corp
+NASDAQ Capital
+10.00
+5,000,000
+06/22/2021
+$50,000,000
+Priced
+YMM
+Full Truck Alliance Co. Ltd.
+NYSE
+19.00
+82,500,000
+06/22/2021
+$1,567,500,000
+Priced
+ATAI
+ATAI Life Sciences N.V.
+NASDAQ Global
+15.00
+15,000,000
+06/18/2021
+$225,000,000
+Priced
+JUGGU
+Jaws Juggernaut Acquisition Corp
+NASDAQ Capital
+10.00
+24,000,000
+06/18/2021
+$240,000,000
+Priced
+IPSC
+Century Therapeutics, Inc.
+NASDAQ Global Select
+20.00
+10,550,000
+06/18/2021
+$211,000,000
+Priced
+RERE
+AiHuiShou International Co. Ltd.
+NYSE
+14.00
+16,233,000
+06/18/2021
+$227,262,000
+Priced
+CYT
+Cyteir Therapeutics, Inc.
+NASDAQ Global Select
+18.00
+7,400,000
+06/18/2021
+$133,200,000
+Priced
+DNAY
+Codex DNA, Inc.
+NASDAQ Global Select
+16.00
+6,666,665
+06/18/2021
+$106,666,640
+Priced
+AMAM
+Ambrx Biopharma Inc.
+NYSE
+18.00
+7,000,000
+06/18/2021
+$126,000,000
+Priced
+TRMR
+Tremor International Ltd.
+NASDAQ Global
+19.00
+6,768,953
+06/18/2021
+$128,610,107
+Priced
+FEMY
+FEMASYS INC
+NASDAQ Capital
+13.00
+2,650,000
+06/18/2021
+$34,450,000
+Priced
+TRONU
+CORNER GROWTH ACQUISITION CORP. 2
+NASDAQ Capital
+10.00
+17,500,000
+06/17/2021
+$175,000,000
+Priced
+AOMR
+Angel Oak Mortgage, Inc.
+NYSE
+19.00
+7,200,000
+06/17/2021
+$136,800,000
+Priced
+LYEL
+Lyell Immunopharma, Inc.
+NASDAQ Global Select
+17.00
+25,000,000
+06/17/2021
+$425,000,000
+Priced
+VERV
+Verve Therapeutics, Inc.
+NASDAQ Global Select
+19.00
+14,035,789
+06/17/2021
+$266,679,991
+Priced
+ISPC
+iSpecimen Inc.
+NASDAQ Capital
+8.00
+2,250,000
+06/17/2021
+$18,000,000
+Priced
+RONIU
+Rice Acquisition Corp. II
+NYSE
+10.00
+30,000,000
+06/16/2021
+$300,000,000
+Priced
+MOLN
+MOLECULAR PARTNERS AG
+NASDAQ Global Select
+21.25
+3,000,000
+06/16/2021
+$63,750,000
+Priced
+WKME
+WalkMe Ltd.
+NASDAQ Global Select
+31.00
+9,250,000
+06/16/2021
+$286,750,000
+Priced
+ZTAQU
+Zimmer Energy Transition Acquisition Corp.
+NASDAQ Global
+10.00
+30,000,000
+06/16/2021
+$300,000,000
+Priced
+CNVY
+Convey Holding Parent, Inc.
+NYSE
+14.00
+13,333,334
+06/16/2021
+$186,666,676
+Priced
+DILAU
+Dila Capital Acquisition Corp
+NASDAQ Capital
+10.00
+5,500,000
+06/15/2021
+$55,000,000
+Priced
+ALZN
+Alzamend Neuro, Inc.
+NASDAQ Capital
+5.00
+2,500,000
+06/15/2021
+$12,500,000
+Priced
+GSQBU
+G Squared Ascend II, Inc.
+NYSE
+10.00
+12,500,000
+06/15/2021
+$125,000,000
+Priced
+LAAAU
+Lakeshore Acquisition I Corp.
+NASDAQ Capital
+10.00
+5,000,000
+06/11/2021
+$50,000,000
+Priced
+HCNEU
+Jaws Hurricane Acquisition Corp
+NASDAQ Capital
+10.00
+27,500,000
+06/11/2021
+$275,000,000
+Priced
+JANX
+Janux Therapeutics, Inc.
+NASDAQ Global
+17.00
+11,400,000
+06/11/2021
+$193,800,000
+Priced
+LITTU
+Logistics Innovation Technologies Corp.
+NASDAQ Global
+10.00
+30,000,000
+06/11/2021
+$300,000,000
+Priced
+SBEV
+SPLASH BEVERAGE GROUP, INC.
+NYSE MKT
+4.00
+3,750,000
+06/11/2021
+$15,000,000
+Priced
+TASK
+TaskUs, Inc.
+NASDAQ Global Select
+23.00
+13,200,000
+06/11/2021
+$303,600,000
+Priced
+BZ
+Kanzhun Ltd
+NASDAQ Global Select
+19.00
+48,000,000
+06/11/2021
+$912,000,000
+Priced
+DIBS
+1stdibs.com, Inc.
+NASDAQ Global
+20.00
+5,750,000
+06/10/2021
+$115,000,000
+Priced
+MNDY
+monday.com Ltd.
+NASDAQ Global Select
+155.00
+3,700,000
+06/10/2021
+$573,500,000
+Priced
+LFST
+LifeStance Health Group, Inc.
+NASDAQ Global Select
+18.00
+40,000,000
+06/10/2021
+$720,000,000
+Priced
+BSGAU
+Blue Safari Group Acquisition Corp
+NASDAQ Capital
+10.00
+5,000,000
+06/10/2021
+$50,000,000
+Priced
+ZETA
+Zeta Global Holdings Corp.
+NYSE
+10.00
+21,500,000
+06/10/2021
+$215,000,000
+Priced
+CLBRU
+Colombier Acquisition Corp.
+NYSE
+10.00
+15,000,000
+06/09/2021
+$150,000,000
+Priced
+ISAA
+Iron Spark I Inc.
+NASDAQ Capital
+10.00
+15,000,000
+06/09/2021
+$150,000,000
+Priced
+SMIHU
+Summit Healthcare Acquisition Corp.
+NASDAQ Capital
+10.00
+20,000,000
+06/09/2021
+$200,000,000
+Priced
+GACQU
+Global Consumer Acquisition Corp
+NASDAQ Capital
+10.00
+17,000,000
+06/09/2021
+$170,000,000
+Priced
+MQ
+Marqeta, Inc.
+NASDAQ Global Select
+27.00
+45,454,546
+06/09/2021
+$1,227,272,742
+Priced
+ZME
+Zhangmen Education Inc.
+NYSE
+11.50
+3,623,000
+06/08/2021
+$41,664,500
+Priced
+SPKAU
+SPK Acquisition Corp.
+NASDAQ Capital
+10.00
+5,000,000
+06/08/2021
+$50,000,000
+Priced
+DLO
+dLocal Ltd
+NASDAQ Global Select
+21.00
+29,411,765
+06/03/2021
+$617,647,065
+Priced

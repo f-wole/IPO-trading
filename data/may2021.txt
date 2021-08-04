@@ -1,0 +1,369 @@
+OTECU
+OceanTech Acquisitions I Corp.
+NASDAQ Capital
+10.00
+10,000,000
+05/28/2021
+$100,000,000
+Priced
+CNTA
+Centessa Pharmaceuticals plc
+NASDAQ Global
+20.00
+16,500,000
+05/28/2021
+$330,000,000
+Priced
+FIGS
+FIGS, Inc.
+NYSE
+22.00
+26,386,363
+05/27/2021
+$580,499,986
+Priced
+OMIC
+Singular Genomics Systems, Inc.
+NASDAQ Global Select
+22.00
+10,200,000
+05/27/2021
+$224,400,000
+Priced
+DAWN
+Day One Biopharmaceuticals, Inc.
+NASDAQ Global Select
+16.00
+10,000,000
+05/27/2021
+$160,000,000
+Priced
+EGGFU
+EG Acquisition Corp.
+NYSE
+10.00
+22,500,000
+05/26/2021
+$225,000,000
+Priced
+PSPCU
+Post Holdings Partnering Corp
+NYSE
+10.00
+30,000,000
+05/26/2021
+$300,000,000
+Priced
+PAY
+Paymentus Holdings, Inc.
+NYSE
+21.00
+10,000,000
+05/26/2021
+$210,000,000
+Priced
+DYNS
+Dynamics Special Purpose Corp.
+NASDAQ Capital
+10.00
+20,000,000
+05/26/2021
+$200,000,000
+Priced
+FLYW
+Flywire Corp
+NASDAQ Global Select
+24.00
+10,440,000
+05/26/2021
+$250,560,000
+Priced
+ZIP
+ZIPRECRUITER, INC.
+NYSE
+18.00
+86,598,896
+05/26/2021
+$1,558,780,128
+Priced
+FWAC
+Fifth Wall Acquisition Corp. III
+NASDAQ Capital
+10.00
+25,000,000
+05/25/2021
+$250,000,000
+Priced
+GFORU
+Graf Acquisition Corp. IV
+NYSE
+10.00
+15,000,000
+05/21/2021
+$150,000,000
+Priced
+OTLY
+Oatly Group AB
+NASDAQ Global Select
+17.00
+84,376,000
+05/20/2021
+$1,434,392,000
+Priced
+PCOR
+PROCORE TECHNOLOGIES, INC.
+NYSE
+67.00
+9,470,000
+05/20/2021
+$634,490,000
+Priced
+GIWWU
+GigInternational1, Inc.
+NASDAQ Capital
+10.00
+20,000,000
+05/19/2021
+$200,000,000
+Priced
+RAMMU
+Aries I Acquisition Corp.
+NASDAQ Capital
+10.00
+12,500,000
+05/19/2021
+$125,000,000
+Priced
+SQSP
+Squarespace, Inc.
+NYSE
+50.00
+40,401,820
+05/19/2021
+$2,020,091,000
+Priced
+SKYAU
+SKYDECK ACQUISITION CORP.
+NASDAQ Capital
+10.00
+20,000,000
+05/19/2021
+$200,000,000
+Priced
+JZXN
+Jiuzi Holdings, Inc.
+NASDAQ Capital
+5.00
+5,200,000
+05/18/2021
+$26,000,000
+Priced
+PONDU
+Angel Pond Holdings Corp
+NYSE
+10.00
+25,000,000
+05/18/2021
+$250,000,000
+Priced
+MCAEU
+Mountain Crest Acquisition Corp. III
+NASDAQ Capital
+10.00
+5,000,000
+05/18/2021
+$50,000,000
+Priced
+CPARU
+Catalyst Partners Acquisition Corp.
+NASDAQ Capital
+10.00
+30,000,000
+05/18/2021
+$300,000,000
+Priced
+DBGI
+Digital Brands Group, Inc.
+NASDAQ Capital
+4.15
+2,409,639
+05/14/2021
+$10,000,002
+Priced
+EJH
+E-Home Household Service Holdings Ltd
+NASDAQ Capital
+4.50
+5,555,556
+05/14/2021
+$25,000,002
+Priced
+ARTAU
+Artisan Acquisition Corp.
+NASDAQ Capital
+10.00
+30,000,000
+05/14/2021
+$300,000,000
+Priced
+VERA
+Vera Therapeutics, Inc.
+NASDAQ Global
+11.00
+4,350,000
+05/14/2021
+$47,850,000
+Priced
+OSI'U
+Osiris Acquisition Corp.
+NYSE
+10.00
+23,000,000
+05/14/2021
+$230,000,000
+Priced
+ORIAU
+Orion Biotech Opportunities Corp.
+NASDAQ Capital
+10.00
+20,000,000
+05/13/2021
+$200,000,000
+Priced
+IPW
+iPower Inc.
+NASDAQ Capital
+5.00
+3,360,000
+05/12/2021
+$16,800,000
+Priced
+GLBE
+Global-E Online Ltd.
+NASDAQ Global Select
+25.00
+15,000,000
+05/12/2021
+$375,000,000
+Priced
+SMWB
+SIMILARWEB LTD.
+NYSE
+22.00
+8,000,000
+05/12/2021
+$176,000,000
+Priced
+FLGC
+Flora Growth Corp.
+NASDAQ Capital
+5.00
+3,333,333
+05/11/2021
+$16,666,665
+Priced
+TALS
+Talaris Therapeutics, Inc.
+NASDAQ Global
+17.00
+8,825,000
+05/07/2021
+$150,025,000
+Priced
+BRIVU
+B. Riley Principal 250 Merger Corp.
+NASDAQ Capital
+10.00
+15,000,000
+05/07/2021
+$150,000,000
+Priced
+BWMN
+Bowman Consulting Group Ltd.
+NASDAQ Global
+14.00
+3,690,000
+05/07/2021
+$51,660,000
+Priced
+ANEB
+Anebulo Pharmaceuticals, Inc.
+NASDAQ Capital
+7.00
+3,000,000
+05/07/2021
+$21,000,000
+Priced
+WDH
+Waterdrop Inc.
+NYSE
+12.00
+30,000,000
+05/07/2021
+$360,000,000
+Priced
+OG
+Onion Global Ltd
+NYSE
+7.25
+9,310,350
+05/07/2021
+$67,500,038
+Priced
+DKDCU
+Data Knights Acquisition Corp.
+NASDAQ Capital
+10.00
+10,000,000
+05/07/2021
+$100,000,000
+Priced
+VALN
+Valneva SE
+NASDAQ Global Select
+26.411
+2,318,881
+05/06/2021
+$61,241,647
+Priced
+FSBC
+FIVE STAR BANCORP
+NASDAQ Global Select
+20.00
+5,265,000
+05/05/2021
+$105,300,000
+Priced
+HNST
+Honest Company, Inc.
+NASDAQ Global Select
+16.00
+25,807,000
+05/05/2021
+$412,912,000
+Priced
+MAQCU
+Maquia Capital Acquisition Corp
+NASDAQ Capital
+10.00
+16,000,000
+05/05/2021
+$160,000,000
+Priced
+VLATU
+Valor Latitude Acquisition Corp.
+NASDAQ Capital
+10.00
+20,000,000
+05/04/2021
+$200,000,000
+Priced
+ALF
+Alfi, Inc.
+NASDAQ Capital
+4.15
+3,731,344
+05/04/2021
+$15,485,078
+Priced
+

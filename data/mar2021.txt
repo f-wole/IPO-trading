@@ -1,0 +1,1217 @@
+COUR
+Coursera, Inc.
+NYSE
+33.00
+15,730,000
+03/31/2021
+$519,090,000
+Priced
+ACHL
+Achilles Therapeutics plc
+NASDAQ Global Select
+18.00
+9,750,000
+03/31/2021
+$175,500,000
+Priced
+MBTCU
+Nocturne Acquisition Corp
+NASDAQ Capital
+10.00
+10,000,000
+03/31/2021
+$100,000,000
+Priced
+TWOA
+two
+NYSE
+10.00
+20,000,000
+03/30/2021
+$200,000,000
+Priced
+HYW
+Hywin Holdings Ltd.
+NASDAQ Global
+10.00
+3,000,000
+03/26/2021
+$30,000,000
+Priced
+EWTX
+Edgewise Therapeutics, Inc.
+NASDAQ Global Select
+16.00
+11,000,000
+03/26/2021
+$176,000,000
+Priced
+DSGN
+Design Therapeutics, Inc.
+NASDAQ Global Select
+20.00
+12,000,000
+03/26/2021
+$240,000,000
+Priced
+TDUP
+ThredUp Inc.
+NASDAQ Global Select
+14.00
+12,000,000
+03/26/2021
+$168,000,000
+Priced
+ZH
+Zhihu Inc.
+NYSE
+9.50
+55,000,000
+03/26/2021
+$522,500,000
+Priced
+IKNA
+Ikena Oncology, Inc.
+NASDAQ Global
+16.00
+7,812,500
+03/26/2021
+$125,000,000
+Priced
+ALHC
+Alignment Healthcare, Inc.
+NASDAQ Global Select
+18.00
+27,200,000
+03/26/2021
+$489,600,000.00
+Priced
+VZIO
+Vizio Holding Corp.
+NYSE
+21.00
+12,250,000
+03/25/2021
+$257,250,000
+Priced
+SEMR
+SEMrush Holdings, Inc.
+NYSE
+14.00
+10,000,000
+03/25/2021
+$140,000,000
+Priced
+OLK
+Olink Holding AB (publ)
+NASDAQ Global
+20.00
+17,647,058
+03/25/2021
+$352,941,160
+Priced
+MSDAU
+MSD ACQUISITION CORP. / NEW
+NASDAQ Capital
+10.00
+50,000,000
+03/25/2021
+$500,000,000
+Priced
+CRCT
+Cricut, Inc.
+NASDAQ Global Select
+20.00
+15,314,903
+03/25/2021
+$306,298,060
+Priced
+EEIQ
+Elite Education Group International Ltd
+NASDAQ Capital
+8.00
+750,000
+03/25/2021
+$6,000,000
+Priced
+DSEY
+Diversey Holdings, Ltd.
+NASDAQ Global Select
+15.00
+46,153,846
+03/25/2021
+$692,307,690
+Priced
+LCAHU
+Landcadia Holdings IV, Inc.
+NASDAQ Capital
+10.00
+50,000,000
+03/25/2021
+$500,000,000
+Priced
+WMPN
+William Penn Bancorporation
+NASDAQ Capital
+10.00
+12,650,000
+03/25/2021
+$126,500,000
+Priced
+LVTX
+LAVA Therapeutics NV
+NASDAQ Global Select
+15.00
+6,700,000
+03/25/2021
+$100,500,000
+Priced
+KVSC
+Khosla Ventures Acquisition Co. III
+NASDAQ Capital
+10.00
+50,000,000
+03/24/2021
+$500,000,000
+Priced
+KVSB
+Khosla Ventures Acquisition Co. II
+NASDAQ Capital
+10.00
+40,000,000
+03/24/2021
+$400,000,000
+Priced
+DOCN
+DigitalOcean Holdings, Inc.
+NYSE
+47.00
+16,500,000
+03/24/2021
+$775,500,000
+Priced
+NGC'U
+Northern Genesis Acquisition Corp. III
+NYSE
+10.00
+15,000,000
+03/24/2021
+$150,000,000
+Priced
+ACVA
+ACV Auctions Inc.
+NASDAQ Global Select
+25.00
+16,550,000
+03/24/2021
+$413,750,000
+Priced
+DISAU
+Disruptive Acquisition Corp I
+NASDAQ Capital
+10.00
+25,000,000
+03/24/2021
+$250,000,000
+Priced
+DCRCU
+Decarbonization Plus Acquisition Corp III
+NASDAQ Capital
+10.00
+35,000,000
+03/24/2021
+$350,000,000
+Priced
+CRZNU
+Corazon Capital V838 Monoceros Corp
+NASDAQ Capital
+10.00
+20,000,000
+03/24/2021
+$200,000,000
+Priced
+NGCAU
+NextGen Acquisition Corp. II
+NASDAQ Capital
+10.00
+35,000,000
+03/23/2021
+$350,000,000
+Priced
+NBSTU
+Newbury Street Acquisition Corp
+NASDAQ Capital
+10.00
+12,000,000
+03/23/2021
+$120,000,000
+Priced
+DGNU
+Dragoneer Growth Opportunities Corp. III
+NASDAQ Capital
+10.00
+40,000,000
+03/23/2021
+$400,000,000
+Priced
+MOVE
+Movano Inc.
+NASDAQ Capital
+5.00
+8,500,000
+03/23/2021
+$42,500,000
+Priced
+LEGAU
+Lead Edge Growth Opportunities, Ltd
+NASDAQ Capital
+10.00
+30,000,000
+03/23/2021
+$300,000,000
+Priced
+UPC
+Universe Pharmaceuticals INC
+NASDAQ Global
+5.00
+5,000,000
+03/23/2021
+$25,000,000
+Priced
+RKTAU
+Rocket Internet Growth Opportunities Corp.
+NYSE
+10.00
+25,000,000
+03/23/2021
+$250,000,000
+Priced
+VGIIU
+Virgin Group Acquisition Corp. II
+NYSE
+10.00
+35,000,000
+03/23/2021
+$350,000,000
+Priced
+OPA'U
+Magnum Opus Acquisition Ltd
+NYSE
+10.00
+20,000,000
+03/23/2021
+$200,000,000
+Priced
+STREU
+Supernova Partners Acquisition Co III, Ltd.
+NYSE
+10.00
+25,000,000
+03/23/2021
+$250,000,000
+Priced
+ACTDU
+ArcLight Clean Transition Corp. II
+NASDAQ Capital
+10.00
+27,500,000
+03/23/2021
+$275,000,000
+Priced
+GLHAU
+Glass Houses Acquisition Corp.
+NASDAQ Capital
+10.00
+20,000,000
+03/23/2021
+$200,000,000
+Priced
+GGPIU
+Gores Guggenheim, Inc.
+NASDAQ Capital
+10.00
+75,000,000
+03/23/2021
+$750,000,000
+Priced
+TBSAU
+TB SA Acquisition Corp
+NASDAQ Capital
+10.00
+20,000,000
+03/23/2021
+$200,000,000
+Priced
+GGMCU
+Glenfarne Merger Corp.
+NASDAQ Capital
+10.00
+25,000,000
+03/19/2021
+$250,000,000
+Priced
+FNCH
+Finch Therapeutics Group, Inc.
+NASDAQ Global Select
+17.00
+7,500,000
+03/19/2021
+$127,500,000
+Priced
+LGV'U
+Longview Acquisition Corp. II
+NYSE
+10.00
+60,000,000
+03/19/2021
+$600,000,000
+Priced
+TIL
+Instil Bio, Inc.
+NASDAQ Global Select
+20.00
+16,000,000
+03/19/2021
+$320,000,000
+Priced
+AFCG
+AFC Gamma, Inc.
+NASDAQ Global
+19.00
+6,250,000
+03/19/2021
+$118,750,000
+Priced
+AFAQU
+AF Acquisition Corp.
+NASDAQ Capital
+10.00
+20,000,000
+03/19/2021
+$200,000,000
+Priced
+LDHAU
+LDH Growth Corp I
+NASDAQ Capital
+10.00
+20,000,000
+03/19/2021
+$200,000,000
+Priced
+LVRAU
+Levere Holdings Corp.
+NASDAQ Capital
+10.00
+25,000,000
+03/19/2021
+$250,000,000
+Priced
+BYTSU
+BYTE Acquisition Corp.
+NASDAQ Capital
+10.00
+30,000,000
+03/19/2021
+$300,000,000
+Priced
+CNTB
+Connect Biopharma Holdings Ltd
+NASDAQ Global
+17.00
+11,250,000
+03/19/2021
+$191,250,000
+Priced
+NAPA
+Duckhorn Portfolio, Inc.
+NYSE
+15.00
+20,000,000
+03/18/2021
+$300,000,000
+Priced
+REVHU
+Revolution Healthcare Acquisition Corp.
+NASDAQ Capital
+10.00
+50,000,000
+03/18/2021
+$500,000,000
+Priced
+RACB
+Research Alliance Corp. II
+NASDAQ Capital
+10.00
+13,000,000
+03/18/2021
+$130,000,000
+Priced
+VEI
+VINE ENERGY INC.
+NYSE
+14.00
+21,500,000
+03/18/2021
+$301,000,000
+Priced
+GXIIU
+GX Acquisition Corp. II
+NASDAQ Capital
+10.00
+30,000,000
+03/18/2021
+$300,000,000
+Priced
+AAQCU
+Accelerate Acquisition Corp.
+NYSE
+10.00
+40,000,000
+03/18/2021
+$400,000,000
+Priced
+AMAOU
+American Acquisition Opportunity Inc.
+NASDAQ Capital
+10.00
+10,000,000
+03/18/2021
+$100,000,000
+Priced
+FMIVU
+Forum Merger IV Corp
+NASDAQ Capital
+10.00
+30,000,000
+03/18/2021
+$300,000,000
+Priced
+TUYA
+Tuya Inc.
+NYSE
+21.00
+43,590,000
+03/18/2021
+$915,390,000
+Priced
+GANX
+Gain Therapeutics, Inc.
+NASDAQ Global
+11.00
+3,636,364
+03/18/2021
+$40,000,004
+Priced
+KSICU
+Kadem Sustainable Impact Corp
+NASDAQ Capital
+10.00
+17,500,000
+03/17/2021
+$175,000,000
+Priced
+JWEL
+Jowell Global Ltd.
+NASDAQ Capital
+7.00
+3,714,286
+03/17/2021
+$26,000,002
+Priced
+GAMCU
+Golden Arrow Merger Corp.
+NASDAQ Capital
+10.00
+25,000,000
+03/17/2021
+$250,000,000
+Priced
+TETCU
+Tech & Energy Transition Corp
+NASDAQ Capital
+10.00
+38,500,000
+03/17/2021
+$385,000,000
+Priced
+KAHCU
+KKR Acquisition Holdings I Corp.
+NYSE
+10.00
+120,000,000
+03/17/2021
+$1,200,000,000
+Priced
+BGSXU
+Build Acquisition Corp.
+NYSE
+10.00
+20,000,000
+03/17/2021
+$200,000,000
+Priced
+ATHNU
+Athena Technology Acquisition Corp.
+NYSE
+10.00
+25,000,000
+03/17/2021
+$250,000,000
+Priced
+SNCY
+Sun Country Airlines Holdings, Inc.
+NASDAQ Global Select
+24.00
+9,090,909
+03/17/2021
+$218,181,816
+Priced
+OLO
+Olo Inc.
+NYSE
+25.00
+18,000,000
+03/17/2021
+$450,000,000
+Priced
+FVIVU
+Fortress Value Acquisition Corp. IV
+NYSE
+10.00
+60,000,000
+03/16/2021
+$600,000,000
+Priced
+RTPYU
+Reinvent Technology Partners Y
+NASDAQ Capital
+10.00
+85,000,000
+03/16/2021
+$850,000,000
+Priced
+PLMIU
+Plum Acquisition Corp. I
+NASDAQ Capital
+10.00
+30,000,000
+03/16/2021
+$300,000,000
+Priced
+EBACU
+European Biotech Acquisition Corp.
+NASDAQ Capital
+10.00
+12,000,000
+03/16/2021
+$120,000,000
+Priced
+WALDU
+Waldencast Acquisition Corp.
+NASDAQ Capital
+10.00
+30,000,000
+03/16/2021
+$300,000,000
+Priced
+FZT'U
+FAST Acquisition Corp. II
+NYSE
+10.00
+20,000,000
+03/16/2021
+$200,000,000
+Priced
+FTPAU
+FTAC Parnassus Acquisition Corp.
+NASDAQ Capital
+10.00
+22,000,000
+03/12/2021
+$220,000,000
+Priced
+JOAN
+JOANN Inc.
+NASDAQ Global
+12.00
+10,937,500
+03/12/2021
+$131,250,000
+Priced
+ROSSU
+Ross Acquisition Corp II
+NYSE
+10.00
+30,000,000
+03/12/2021
+$300,000,000
+Priced
+GTPBU
+Gores Technology Partners II, Inc.
+NASDAQ Capital
+10.00
+40,000,000
+03/12/2021
+$400,000,000
+Priced
+GTPAU
+Gores Technology Partners, Inc.
+NASDAQ Capital
+10.00
+24,000,000
+03/12/2021
+$240,000,000
+Priced
+LBPH
+Longboard Pharmaceuticals, Inc.
+NASDAQ Global
+16.00
+5,000,000
+03/12/2021
+$80,000,000
+Priced
+MITC
+MeaTech 3D Ltd.
+NASDAQ Capital
+10.30
+2,427,185
+03/12/2021
+$25,000,006
+Priced
+SCAQU
+Stratim Cloud Acquisition Corp.
+NASDAQ Capital
+10.00
+25,000,000
+03/12/2021
+$250,000,000
+Priced
+CFFEU
+CF Acquisition Corp. VIII
+NASDAQ Capital
+10.00
+22,000,000
+03/12/2021
+$220,000,000
+Priced
+HAYW
+Hayward Holdings, Inc.
+NYSE
+17.00
+40,277,778
+03/12/2021
+$684,722,226
+Priced
+RXDX
+Prometheus Biosciences, Inc.
+NASDAQ Global Select
+19.00
+10,000,000
+03/12/2021
+$190,000,000
+Priced
+PTOCU
+Pine Technology Acquisition Corp.
+NASDAQ Capital
+10.00
+30,000,000
+03/11/2021
+$300,000,000
+Priced
+FHS
+First High-School Education Group Co., Ltd.
+NYSE
+10.00
+7,500,000
+03/11/2021
+$75,000,000
+Priced
+ATSPU
+Archimedes Tech Spac Partners Co
+NASDAQ Capital
+10.00
+12,000,000
+03/11/2021
+$120,000,000
+Priced
+LCAAU
+L Catterton Asia Acquisition Corp
+NASDAQ Capital
+10.00
+25,000,000
+03/11/2021
+$250,000,000
+Priced
+SPKBU
+Silver Spike Acquisition Corp II
+NASDAQ Capital
+10.00
+25,000,000
+03/11/2021
+$250,000,000
+Priced
+GAPAU
+G&P Acquisition Corp.
+NYSE
+10.00
+17,500,000
+03/11/2021
+$175,000,000
+Priced
+CPNG
+Coupang, Inc.
+NYSE
+35.00
+130,000,000
+03/11/2021
+$4,550,000,000
+Priced
+FRONU
+Frontier Acquisition Corp.
+NASDAQ Capital
+10.00
+20,000,000
+03/11/2021
+$200,000,000
+Priced
+SBIIU
+Sandbridge X2 Corp
+NYSE
+10.00
+22,000,000
+03/10/2021
+$220,000,000
+Priced
+FRWAU
+PWP Forward Acquisition Corp. I
+NASDAQ Capital
+10.00
+20,000,000
+03/10/2021
+$200,000,000
+Priced
+ESM'U
+ESM Acquisition Corp
+NYSE
+10.00
+30,000,000
+03/10/2021
+$300,000,000
+Priced
+CLAAU
+Colonnade Acquisition Corp. II
+NYSE
+10.00
+30,000,000
+03/10/2021
+$300,000,000
+Priced
+FRXBU
+Forest Road Acquisition Corp. II
+NYSE
+10.00
+30,500,000
+03/10/2021
+$305,000,000
+Priced
+AGGRU
+Agile Growth Corp.
+NASDAQ Capital
+10.00
+30,000,000
+03/10/2021
+$300,000,000
+Priced
+RBLX
+Roblox Corp
+NYSE
+45.00
+198,917,280
+03/10/2021
+$8,951,277,600
+Priced
+VAQC
+Vector Acquisition Corp II
+NASDAQ Capital
+10.00
+45,000,000
+03/10/2021
+$450,000,000
+Priced
+DTOCU
+Digital Transformation Opportunities Corp.
+NASDAQ Capital
+10.00
+30,000,000
+03/10/2021
+$300,000,000
+Priced
+GROY
+Gold Royalty Corp.
+NYSE MKT
+5.00
+18,000,000
+03/09/2021
+$90,000,000
+Priced
+PDOTU
+Peridot Acquisition Corp. II
+NYSE
+10.00
+36,000,000
+03/09/2021
+$360,000,000
+Priced
+SVFC
+SVF Investment Corp. 3
+NASDAQ Capital
+10.00
+28,000,000
+03/09/2021
+$280,000,000
+Priced
+SVFB
+SVF Investment Corp. 2
+NASDAQ Capital
+10.00
+20,000,000
+03/09/2021
+$200,000,000
+Priced
+ACQRU
+Independence Holdings Corp.
+NASDAQ Capital
+10.00
+43,500,000
+03/09/2021
+$435,000,000
+Priced
+IPVAU
+InterPrivate II Acquisition Corp.
+NYSE
+10.00
+22,500,000
+03/05/2021
+$225,000,000
+Priced
+WPCAU
+Warburg Pincus Capital Corp I-B
+NYSE
+10.00
+50,000,000
+03/05/2021
+$500,000,000
+Priced
+WPCAU
+Warburg Pincus Capital Corp I-A
+NYSE
+10.00
+25,000,000
+03/05/2021
+$250,000,000
+Priced
+FRSGU
+First Reserve Sustainable Growth Corp.
+NASDAQ Capital
+10.00
+20,000,000
+03/05/2021
+$200,000,000
+Priced
+IPVIU
+InterPrivate IV InfraTech Partners Inc.
+NASDAQ Capital
+10.00
+25,000,000
+03/05/2021
+$250,000,000
+Priced
+TWNTU
+Tailwind Two Acquisition Corp.
+NYSE
+10.00
+30,000,000
+03/05/2021
+$300,000,000
+Priced
+VPCCU
+VPC Impact Acquisition Holdings III, Inc.
+NYSE
+10.00
+22,500,000
+03/05/2021
+$225,000,000
+Priced
+DMYQU
+dMY Technology Group, Inc. IV
+NYSE
+10.00
+30,000,000
+03/05/2021
+$300,000,000
+Priced
+IPVFU
+InterPrivate III Financial Partners Inc.
+NYSE
+10.00
+22,500,000
+03/05/2021
+$225,000,000
+Priced
+LHAA
+Lerer Hippeau Acquisition Corp.
+NASDAQ Capital
+10.00
+20,000,000
+03/05/2021
+$200,000,000
+Priced
+VPCBU
+VPC Impact Acquisition Holdings II
+NASDAQ Capital
+10.00
+22,500,000
+03/05/2021
+$225,000,000
+Priced
+ATVCU
+Tribe Capital Growth Corp I
+NASDAQ Capital
+10.00
+24,000,000
+03/05/2021
+$240,000,000
+Priced
+PSAGU
+Property Solutions Acquisition Corp. II
+NASDAQ Capital
+10.00
+30,000,000
+03/04/2021
+$300,000,000
+Priced
+RXRAU
+RXR Acquisition Corp.
+NASDAQ Capital
+10.00
+30,000,000
+03/04/2021
+$300,000,000
+Priced
+AURCU
+Aurora Acquisition Corp.
+NASDAQ Capital
+10.00
+22,000,000
+03/04/2021
+$220,000,000
+Priced
+HERAU
+FTAC Hera Acquisition Corp.
+NASDAQ Capital
+10.00
+80,000,000
+03/04/2021
+$800,000,000
+Priced
+ACAHU
+Atlantic Coastal Acquisition Corp.
+NASDAQ Capital
+10.00
+30,000,000
+03/04/2021
+$300,000,000
+Priced
+MBACU
+M3-Brigade Acquisition II Corp.
+NYSE
+10.00
+40,000,000
+03/04/2021
+$400,000,000
+Priced
+ATAQU
+Altimar Acquisition Corp. III
+NYSE
+10.00
+13,500,000
+03/04/2021
+$135,000,000
+Priced
+TRCAU
+Twin Ridge Capital Acquisition Corp.
+NYSE
+10.00
+20,000,000
+03/04/2021
+$200,000,000
+Priced
+KVSA
+Khosla Ventures Acquisition Co.
+NASDAQ Capital
+10.00
+30,000,000
+03/04/2021
+$300,000,000
+Priced
+INNV
+InnovAge Holding Corp.
+NASDAQ Global Select
+21.00
+16,666,667
+03/04/2021
+$350,000,007
+Priced
+ISOSU
+Isos Acquisition Corp.
+NYSE
+10.00
+22,500,000
+03/03/2021
+$225,000,000
+Priced
+MACCU
+Mission Advancement Corp.
+NYSE
+10.00
+30,000,000
+03/03/2021
+$300,000,000
+Priced
+OSCR
+Oscar Health, Inc.
+NYSE
+39.00
+37,041,026
+03/03/2021
+$1,444,600,014
+Priced
+ROCRU
+Roth CH Acquisition III Co
+NASDAQ Capital
+10.00
+10,000,000
+03/03/2021
+$100,000,000
+Priced
+HYACU
+Haymaker Acquisition Corp. III
+NASDAQ Capital
+10.00
+30,000,000
+03/02/2021
+$300,000,000
+Priced
+DHCAU
+DHC Acquisition Corp.
+NASDAQ Capital
+10.00
+30,000,000
+03/02/2021
+$300,000,000
+Priced
+DHBCU
+DHB Capital Corp.
+NASDAQ Capital
+10.00
+25,000,000
+03/02/2021
+$250,000,000
+Priced
+NDACU
+NightDragon Acquisition Corp.
+NASDAQ Capital
+10.00
+30,000,000
+03/02/2021
+$300,000,000
+Priced
+OHPAU
+Orion Acquisition Corp.
+NASDAQ Capital
+10.00
+36,000,000
+03/02/2021
+$360,000,000
+Priced
+ARRWU
+Arrowroot Acquisition Corp.
+NASDAQ Capital
+10.00
+25,000,000
+03/02/2021
+$250,000,000
+Priced
+ANZUU
+Anzu Special Acquisition Corp I
+NASDAQ Capital
+10.00
+42,000,000
+03/02/2021
+$420,000,000
+Priced
+GBRGU
+Goldenbridge Acquisition Ltd
+NASDAQ Capital
+10.00
+5,000,000
+03/02/2021
+$50,000,000
+Priced
+AMPIU
+Advanced Merger Partners, Inc.
+NYSE
+10.00
+25,000,000
+03/02/2021
+$250,000,000
+Priced
+NSTDU
+Northern Star Investment Corp. IV
+NYSE
+10.00
+35,000,000
+03/02/2021
+$350,000,000
+Priced
+NSTCU
+Northern Star Investment Corp. III
+NYSE
+10.00
+35,000,000
+03/02/2021
+$350,000,000
+Priced
+FTEVU
+FinTech Evolution Acquisition Group
+NYSE
+10.00
+24,000,000
+03/02/2021
+$240,000,000
+Priced
+SNIIU
+Supernova Partners Acquisition Co II, Ltd.
+NYSE
+10.00
+30,000,000
+03/02/2021
+$300,000,000
+Priced
+LOKMU
+Live Oak Mobility Acquisition Corp.
+NYSE
+10.00
+22,000,000
+03/02/2021
+$220,000,000
+Priced
+TSPQU
+TCW Special Purpose Acquisition Corp.
+NYSE
+10.00
+45,000,000
+03/02/2021
+$450,000,000
+Priced
+
